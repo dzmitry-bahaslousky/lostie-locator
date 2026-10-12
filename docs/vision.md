@@ -43,15 +43,25 @@ people anywhere in the world.
 
 More lost pets get back to their owners, faster.
 
+## Key product decisions
+
+See `decisions.md` for the full log.
+
+- **Platform:** a web app first, usable from both laptops and phone browsers.
+- **Nearby:** the owner shares whatever last location they have. Reports are
+  shown to people within roughly 5 km (possibly up to 10 km) of it, in a feed of
+  recent posts near them.
+- **Contact:** owners, finders and helpers talk through private in-app chat.
+  Personal information is never shared without the approval of both sides.
+- **Language:** English first; Russian localization comes next.
+- **Moderation:** required, to prevent spam, scams and fake "found" reports.
+- **Closed cases:** when a pet is found, the case is closed and archived, not
+  deleted. Reunion stories stay visible as a reminder to others and to promote
+  the app.
+
 ## Open questions
 
-These are not decided yet; answers go into `requirements.md`, `tech.md` or
-`decisions.md`.
-
-- Platform: mobile app, web app, or both? Which first?
-- How "nearby" is defined (radius, city, district) and how helpers get notified.
-- How owners and finders/helpers contact each other, and how much personal
-  data (phone, exact address) is shown publicly.
-- Languages for launch (Russian, Belarusian, English?).
-- Moderation: preventing spam, scams and fake "found" reports.
-- Does a case get closed/archived when the pet is found?
+- Exact nearby radius (5 km vs 10 km), and whether users can change it.
+- Notifications: push or email alerts for new nearby reports, or only the feed?
+- How moderation works (user reports, manual review, automatic checks).
+- Does posting or helping require an account?

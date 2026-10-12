@@ -10,7 +10,7 @@ Describe each flow step by step from the user's point of view.
 - **Help with a lost pet (sighting):** _TODO_
 - **Report a found pet:** _TODO_
 - **Match a found pet to a lost report:** _TODO_
-- **Close a case when the pet is home:** _TODO_
+- **Close a case when the pet is home:** the case is closed and archived, and stays visible as a reunion story.
 
 ## First version (MVP): must have
 
@@ -26,6 +26,9 @@ Describe each flow step by step from the user's point of view.
 
 ## Non-functional requirements
 
-- Languages: _TODO_
-- Privacy (what personal data is public): _TODO_
+- Languages: English at launch; Russian localization next.
+- Privacy: users talk through private in-app chat; personal information is
+  shared only with the approval of both sides.
+- Moderation against spam, scams and fake found reports is required.
+- Closed cases are archived, never deleted.
 - Expected scale at launch: _TODO_

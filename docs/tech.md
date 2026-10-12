@@ -2,7 +2,7 @@
 
 > Template. "No preference" is a valid answer; Claude will propose options.
 
-- **Platform** (web / iOS / Android / all): _TODO_
+- **Platform**: web app first, responsive for laptop and mobile browsers.
 - **Frontend**: _TODO_
 - **Backend**: _TODO_
 - **Database**: _TODO_
