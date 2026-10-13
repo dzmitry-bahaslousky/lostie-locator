@@ -58,11 +58,11 @@ See `decisions.md` for the full log.
   Personal information is never shared without the approval of both sides.
 - **Language:** English first; Russian localization comes next.
 - **Moderation:** required, to prevent spam, scams and fake "found" reports.
+  See `moderation.md`.
 - **Closed cases:** when a pet is found, the case is closed and archived, not
   deleted. Reunion stories stay visible as a reminder to others and to promote
   the app.
 
 ## Open questions
 
-- How moderation works (user reports, manual review, automatic checks).
 - Default radius within the 2–15 km range.

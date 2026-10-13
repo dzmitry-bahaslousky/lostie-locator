@@ -16,3 +16,4 @@ Newest at the bottom.
 | 2026-10-13 | Nearby radius is user-configurable from 2 to 15 km. | Different areas (city vs countryside) need different ranges. |
 | 2026-10-13 | Notifications: nearby feed, plus optional push when a report is created nearby. No email alerts. | Keep it simple; users opt in to push. |
 | 2026-10-13 | An account is required to post or help. | Accountability and moderation. |
+| 2026-10-13 | Moderation plan in `docs/moderation.md`: report button, review queue, new-account limits, automatic checks, chat scam warnings. | Dima approved the suggested plan. |
