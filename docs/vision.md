@@ -49,8 +49,11 @@ See `decisions.md` for the full log.
 
 - **Platform:** a web app first, usable from both laptops and phone browsers.
 - **Nearby:** the owner shares whatever last location they have. Reports are
-  shown to people within roughly 5 km (possibly up to 10 km) of it, in a feed of
-  recent posts near them.
+  shown in a feed of recent posts near each user. The radius is configurable by
+  the user from 2 to 15 km.
+- **Notifications:** the nearby feed, plus optional push notifications when a
+  new report is created nearby.
+- **Accounts:** posting a report or helping on one requires an account.
 - **Contact:** owners, finders and helpers talk through private in-app chat.
   Personal information is never shared without the approval of both sides.
 - **Language:** English first; Russian localization comes next.
@@ -61,7 +64,5 @@ See `decisions.md` for the full log.
 
 ## Open questions
 
-- Exact nearby radius (5 km vs 10 km), and whether users can change it.
-- Notifications: push or email alerts for new nearby reports, or only the feed?
 - How moderation works (user reports, manual review, automatic checks).
-- Does posting or helping require an account?
+- Default radius within the 2–15 km range.

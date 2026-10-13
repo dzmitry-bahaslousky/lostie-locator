@@ -29,6 +29,9 @@ Describe each flow step by step from the user's point of view.
 - Languages: English at launch; Russian localization next.
 - Privacy: users talk through private in-app chat; personal information is
   shared only with the approval of both sides.
+- Radius for nearby reports is user-configurable, 2–15 km.
+- Notifications: nearby feed, plus optional push for new nearby reports.
+- An account is required to post or help.
 - Moderation against spam, scams and fake found reports is required.
 - Closed cases are archived, never deleted.
 - Expected scale at launch: _TODO_
