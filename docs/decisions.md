@@ -17,3 +17,6 @@ Newest at the bottom.
 | 2026-10-13 | Notifications: nearby feed, plus optional push when a report is created nearby. No email alerts. | Keep it simple; users opt in to push. |
 | 2026-10-13 | An account is required to post or help. | Accountability and moderation. |
 | 2026-10-13 | Moderation plan in `docs/moderation.md`: report button, review queue, new-account limits, automatic checks, chat scam warnings. | Dima approved the suggested plan. |
+| 2026-10-13 | Default nearby radius is 5 km (still adjustable from 2 to 15 km). | Dima picked it as the starting value; users can widen it outside cities. |
+| 2026-10-14 | Visual style: minimal and friendly ("style D"): white background, Onest font, warm coral accent (#D9480F), soft pastel Lost/Found labels, large rounded photo cards. | Dima preferred it over plainer and bolder options; Onest also covers Russian. |
+| 2026-10-14 | Logo: "Searching paw", a magnifying glass with a paw print in the lens, in coral (#D9480F), next to the lowercase wordmark "lostie" in Onest. | Dima picked it from ten paw-based options. |

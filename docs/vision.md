@@ -50,7 +50,7 @@ See `decisions.md` for the full log.
 - **Platform:** a web app first, usable from both laptops and phone browsers.
 - **Nearby:** the owner shares whatever last location they have. Reports are
   shown in a feed of recent posts near each user. The radius is configurable by
-  the user from 2 to 15 km.
+  the user from 2 to 15 km, with 5 km as the default.
 - **Notifications:** the nearby feed, plus optional push notifications when a
   new report is created nearby.
 - **Accounts:** posting a report or helping on one requires an account.
@@ -65,4 +65,4 @@ See `decisions.md` for the full log.
 
 ## Open questions
 
-- Default radius within the 2–15 km range.
+- None right now.
