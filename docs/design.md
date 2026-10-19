@@ -44,8 +44,9 @@ bold. On coral backgrounds (app icon) the mark is white. It is drawn on a
 ## Navigation
 
 Phone: a bottom bar with **Nearby** (feed), a coral **Post** button, **Chats**
-and **Profile**. Laptop: the same items in a top bar, with the feed list next
-to a map.
+and **Profile**. Laptop: the same items in a top bar (logo, your area and
+radius, Nearby, Chats, Profile and a coral "Post a lost or found pet" button),
+with the feed list next to a map.
 
 ## Screens
 
@@ -85,6 +86,21 @@ to a map.
     with "I lost my pet" and "I found a pet" buttons, How it works (3 steps),
     a Found-a-pet section, Safe by design (private chat, verified accounts,
     no pay-to-return scams), Home again stories, and a sign-up for helpers.
+
+## Laptop browser
+
+Every screen also has a laptop layout on the canvas (added 2026-10-18), using
+the extra width instead of stretching the phone layout:
+
+- **Report detail:** photos, details and sightings on the left; the map with
+  **I saw this pet** and **Message owner** stays beside them.
+- **Add a sighting** and **Post step 3:** a large map with the form next to it.
+- **Chats:** conversation list on the left, the open chat on the right.
+- **Post steps 1 and 2:** a step indicator on top; step 2 has photos on the
+  left and fields on the right.
+- **Close the case:** a centred form.
+- **Profile:** profile card on the left, tabs and a grid of reports on the right.
+- **Settings:** a side menu; the radius slider sits next to a map preview.
 
 ## Ideas added during design
 
